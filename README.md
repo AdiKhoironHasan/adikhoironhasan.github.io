@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Adi Khoiron Hasan</h1>
-
 ```go
 package main
 
@@ -29,6 +27,3 @@ func main() {
 	me.sayHi()
 }
 ```
-### Contact
-- [adikhoironhasan@gmail.com](mailto:adikhoironhasan@gmail.com) on Email
-- [linkedin.com/in/adi-khoiron-hasan](https://linkedin.com/in/adi-khoiron-hasan) on LinkedIn
