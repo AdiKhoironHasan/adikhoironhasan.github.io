@@ -30,5 +30,5 @@ func main() {
 }
 ```
 ### Contact
-- [adikhoironhasan@gmail.com](adikhoironhasan@gmail.com) on Email
+- [mailto:adikhoironhasan@gmail.com](adikhoironhasan@gmail.com) on Email
 - [linkedin.com/in/adi-khoiron-hasan](https://linkedin.com/in/adi-khoiron-hasan) on LinkedIn
