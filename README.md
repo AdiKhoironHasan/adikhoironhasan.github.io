@@ -5,6 +5,7 @@ import "fmt"
 
 type Profile struct {
 	Name         string
+	Email        string
 	Role         string
 	Hobbies      []string
 	Databases    []string
@@ -18,6 +19,7 @@ func (se *Profile) sayHi() {
 func main() {
 	me := &Profile{
 		Name:         "Adi Khoiron Hasan",
+		Email:        "adikhoironhasan@gmail.com",
 		Role:         "Backend Engineer",
 		Hobbies:      []string{"Coding", "Music", "Game"},
 		Databases:    []string{"MySQL", "PostgreSQL", "Redis"},
