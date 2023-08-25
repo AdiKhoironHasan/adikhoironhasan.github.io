@@ -12,7 +12,7 @@ type Profile struct {
 	Technologies []string
 }
 
-func (se *Profile) sayHi() {
+func (p *Profile) sayHi() {
 	fmt.Println("Thank you for stopping by, Hope you found something interesting and useful. :)")
 }
 
